@@ -1,2 +1,12 @@
-# hello_word
+       hello_word
+       ===========
 my first repsitiory on github
+        ===========
+        i 
+        .*★*.
+.*★ *.* 　　 ★
+★　　　　　  * 
+★           .’
+‘*.　　　  .
+    `  .  . 
+    cat
