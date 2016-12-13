@@ -3,17 +3,4 @@
 my first repsitiory on github</br>
 
        ===========
-        
-        
-        i 
-        
-        
-        .*★*.                            
-.*★ *.* 　　 ★    
-★　　　　　  *                 
-★           .’
-‘*.　　　  .                
-    `  .  .                   
-   
-   
-              cat
+       i love cat
